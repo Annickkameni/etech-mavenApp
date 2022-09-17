@@ -135,7 +135,7 @@
                      <version>2.13</version>
                      </plugin>
 		
-		</plugins>
+		</plugin>
 	</build>
 
 
